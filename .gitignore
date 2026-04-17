@@ -1,0 +1,12 @@
+.env
+__pycache__/
+*.pyc
+outputs/models/
+.ipynb_checkpoints/
+
+# Large data files — place locally in data/raw/ (see README)
+data/raw/*.csv
+
+# Internal build scripts
+docs/build_*.js
+presentation/build_pptx.js
