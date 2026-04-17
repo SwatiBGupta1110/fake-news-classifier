@@ -1,5 +1,4 @@
 # Fake vs Real News Classification
-**ML Engineer Take-Home Assignment**
 
 ---
 
